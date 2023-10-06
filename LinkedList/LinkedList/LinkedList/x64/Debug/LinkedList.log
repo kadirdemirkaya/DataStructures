@@ -1,0 +1,4 @@
+﻿  LinkedList.cpp
+C:\Users\Casper\Desktop\GitHub Projects\DataStructures\LinkedList\LinkedList\LinkedList\LinkedList.cpp(138,22): warning C4101: 'ex': unreferenced local variable
+C:\Users\Casper\Desktop\GitHub Projects\DataStructures\LinkedList\LinkedList\LinkedList\LinkedList.cpp(143,22): warning C4101: 'ex': unreferenced local variable
+  LinkedList.vcxproj -> C:\Users\Casper\Desktop\GitHub Projects\DataStructures\LinkedList\LinkedList\x64\Debug\LinkedList.exe
